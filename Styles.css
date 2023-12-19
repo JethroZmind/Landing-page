@@ -25,3 +25,16 @@ body{
     margin: 10px;
 }
 
+ul{
+    display: flex;
+    flex-direction: row;
+}
+
+.navbar-left,.navbar-right{
+    justify-content: center;
+    display: flex;
+    width: 50%;
+    align-items: center;
+
+}
+

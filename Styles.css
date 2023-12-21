@@ -202,3 +202,12 @@ h4{
     border-radius: 10px solid white;
 }
 
+.footer{
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    color: #e5e7eb;
+    height: 75px;
+    
+}
+
